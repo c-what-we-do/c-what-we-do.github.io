@@ -1,4 +1,8 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+## README
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+### Summary
+This is the code for the _C What We Do_ static website.
+
+### Why It Isn't Buns
+No JavaScript. Just plain old CSS3 and HTML5.
+Responsive enough for crushed browser screens.
